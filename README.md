@@ -22,11 +22,8 @@ This project focuses on analyzing global sales data to uncover trends, seasonali
 - **Hourly Sales Trend**: Understands peak hours for purchases.
 - **Spending Power by Country**: Boxplot and bar chart analysis to compare order value distributions.
 
----
 
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
@@ -34,9 +31,7 @@ This project focuses on analyzing global sales data to uncover trends, seasonali
 - Time series analysis
 - Exploratory Data Analysis (EDA)
 
----
-
-## ✅ How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `globalsales.ipynb` in Jupyter or Colab
